@@ -11,6 +11,6 @@ My main tech stack at the moment is TypeScript, Tailwind, and NextJS, but I've d
 - 📫 How to reach me: Email @ joshpatg2005@gmail.com
 
 Fun Facts:
-- I own 2 cats, Loki and Zeus (Zeus is my profile picture!)
+- I own 2 cats, Loki and Zeus (Zeus is my profile picture!) and a dog, Ruby!
 - I started learning how to code by making Discord Bots with Python when I was 13
 - I used to hate Web Development but now it's all I do!

@@ -1,7 +1,5 @@
-## Hi there 👋
-
 # Hi! I'm Josh
-## I'm a twenty year old German college student based in Ireland, currently studying Creative Computing at [IADT](https://iadt.ie)
+I'm a twenty year old German college student based in Ireland, currently studying Creative Computing at [IADT](https://iadt.ie)
 
 My main tech stack at the moment is TypeScript, Tailwind, and NextJS, but I've done a lot more!
 
